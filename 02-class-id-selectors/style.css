@@ -1,0 +1,21 @@
+/* styles.css */
+.All-odd-numbered-elements
+{
+    background-color: rgb(255, 168, 181);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+.The-second-element{
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.All-odd-numbered-elements#The-third-element{
+    font-size: 24px;
+}
+
+.The-fourth-element{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold; 
+}
