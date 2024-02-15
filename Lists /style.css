@@ -1,0 +1,28 @@
+ol
+{
+    list-style-type: upper-alpha;
+}
+
+ul{
+    /* list-style-image: url(./img/pipes.png); */
+    background-color: grey;
+    padding: 50px;
+}
+
+ul li{
+    background-color: red;
+    margin-bottom: 15px;
+}
+
+ol{
+    background-color: yellowgreen;
+    padding: 50px;
+}
+
+ol li{
+    text-align: center;
+    background-color: yellow;
+    margin-bottom: 15px;
+    list-style-position: inside;  /* it moves the list indicators*/
+
+}
